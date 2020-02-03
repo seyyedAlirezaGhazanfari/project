@@ -1,0 +1,9 @@
+server :kalacreatedchannel. kala
+kala :salam_khobi kala
+server :kalajoined. kala
+kala :salam-khobi?-kojaii??? kala
+server :kalarefresh. kala
+server :gghjoined. kala
+server :axzzcreatedchannel. axzz
+server :kkalcreatedchannel. kkal
+server :almcreatedchannel. alm

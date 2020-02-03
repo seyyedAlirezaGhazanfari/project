@@ -1,0 +1,21 @@
+server : sfg created channel. sfg
+sfg : sda asdjk. sfg
+server : sfg refresh. sfg
+server : qsd created channel. qsd
+server : ppk created channel. ppk
+ppk : adsj kds ?. ppk
+server : ppk refresh. ppk
+server : lkl created channel. lkl
+lkl : sadj ajsd. lkl
+server : lkl refresh. lkl
+server : ppo created channel. ppo
+ppo : askd ajsd. ppo
+server : ppo refresh. ppo
+server : ppoo created channel. ppoo
+ppoo : dsak sakd. ppoo
+server : ppoo refresh. ppoo
+server : alal created channel. ssd
+server : alal created channel. als
+server : alal joined. als
+alal : sdks asdjk ?. als
+server : alal refresh. als

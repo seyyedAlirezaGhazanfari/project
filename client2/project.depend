@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1577630462 source:c:\users\user\desktop\class code pishrafte\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdlib.h>
+	"CJSON.h"
+	<string.h>
+	<winsock2.h>
+
+1577570901 source:c:\users\user\desktop\class code pishrafte\project\untitled1.c
+	<stddef.h>
+
+1577104697 source:c:\users\user\desktop\class code pishrafte\project\untitled2.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1577566734 c:\users\user\desktop\class code pishrafte\project\cjson.h
+	<stddef.h>
+
+1577468165 source:c:\users\user\desktop\class code pishrafte\project\untitled3.c
+
+1577104629 c:\users\user\desktop\class code pishrafte\project\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1577570901 source:c:\users\user\desktop\phase 2\client2\untitled1.c
+	<stddef.h>
+
+1577104697 source:c:\users\user\desktop\phase 2\client2\untitled2.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1577566734 c:\users\user\desktop\phase 2\client2\cjson.h
+	<stddef.h>
+
+1577468165 source:c:\users\user\desktop\phase 2\client2\untitled3.c
+
+1580744546 source:c:\users\user\desktop\phase 2\client2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<stdlib.h>
+	"CJSON.h"
+	<string.h>
+	<winsock2.h>
+
